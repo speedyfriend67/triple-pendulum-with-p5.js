@@ -1,4 +1,4 @@
-var h = 0.6;
+var h = 0.1;
 var g = 0.0495;
 var t = 0;
 var m = [1,1,1];
